@@ -1,4 +1,6 @@
 ## How to play
+First you must install customtkinter & pygame.
+Start up either SnakeGame.pyw (without console) or SnakeGame.py
 You are playing as Sam Fisher, and you need to make a clean escape from the enemies (or rather defeat them so they can stop trying to get revenge for Tom Reed). You can use the WASD keys or the arrow keys to move around. You are not able escape outside the border or you risk getting caught.
 
 ## Original Purpose
